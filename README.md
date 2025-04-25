@@ -1,6 +1,3 @@
-# RFID-Counterfeit-Detection-ML
-Counterfeit RFID Tag Detection using Machine Learning
-
 # Counterfeit RFID Tag Detection Using Machine Learning
 
 This project presents a lightweight, data-driven approach for detecting counterfeit RFID tags in smart environments using machine learning techniques. By analyzing RSSI (Received Signal Strength Indicator) patterns from passive RFID tags, the system identifies counterfeit behavior without requiring cryptographic protocols or specialized hardware.
