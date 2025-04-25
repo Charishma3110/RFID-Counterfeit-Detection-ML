@@ -5,7 +5,7 @@ This project presents a lightweight, data-driven approach for detecting counterf
 ## Project Structure
 
 - `datasets/`
-  - `Original_RFID_Dataset.csv`: Raw RFID dataset used in the project.
+  - `RFID - Activity, Location and PID Labels.csv`: Raw original RFID dataset used in the project.
   - `Processed_RFID_Features_Windowed.csv`: Dataset after preprocessing and feature extraction.
 - `code/`
   - `preprocessing.py`: Script for data cleaning, feature extraction, and counterfeit tag simulation.
