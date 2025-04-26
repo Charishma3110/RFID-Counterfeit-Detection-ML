@@ -27,9 +27,12 @@ This project presents a lightweight, data-driven approach for detecting counterf
 
 ## How to Run
 
-1. Place the original dataset in the `datasets/` folder.
-2. Run `code/preprocessing.py` to generate the processed dataset.
-3. Run `code/ML1.py` to train models and evaluate performance.
+1.  Place the original RFID dataset (`Original_RFID_Dataset.csv`) inside the `datasets/` folder.
+   
+2. Run the preprocessing script to clean the data, extract features, and simulate counterfeit tags:
+   ```bash
+   python code/preprocessing.py
+3. Run `code/ML1.py` with dataset ('Processed_RFID_Features_Windowed.csv') to train models and evaluate performance.
 
 ## Results Summary
 
